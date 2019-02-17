@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "extra": {
+      "firebase": {
+        "apiKey": "AIzaSyCuThTfZShncF3ptEPJTo7qCjqakXgL4fU",
+        "authDomain": "weddingapp-f209c.firebaseapp.com",
+        "databaseURL": "https://weddingapp-f209c.firebaseio.com",
+        "projectId": "weddingapp-f209c",
+        "storageBucket": "weddingapp-f209c.appspot.com",
+        "messagingSenderId": "594707584968"
+      }
+    },
+    "facebookAppId": "324638291510360",
+    "name": "Wedding App",
+    "slug": "weddingApp",
+    "privacy": "unlisted",
+    "sdkVersion": "32.0.0",
+    "platforms": [
+      "android"
+    ],
+    "version": "0.0.1",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "cover"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}

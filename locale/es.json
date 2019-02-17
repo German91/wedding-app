@@ -1,0 +1,25 @@
+{
+  "common": {
+    "email": "Correo electronico",
+    "password": "Contraseña",
+    "firstName": "Nombre",
+    "lastName": "Apellidos",
+    "confirmPassword": "Confirmar contraseña",
+    "welcome": "Bienvenido",
+    "logOut": "Desconectado con éxito",
+    "accountCreated": "Cuenta creada con éxito"
+  },
+  "login": {
+    "loginButton": "Entrar",
+    "facebookButton": "Entrar con facebook",
+    "newAccount": "Crear una cuenta"
+  },
+  "register": {
+    "passwordAlertTitle": "Error en contraseña",
+    "passwordMatch": "La contraseña no coincide",
+    "signUpButton": "Crear cuenta"
+  },
+  "navigation": {
+    "registerTitle": "Crear cuenta"
+  }
+}

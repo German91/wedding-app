@@ -1,0 +1,25 @@
+{
+  "common": {
+    "email": "Email address",
+    "password": "Password",
+    "firstName": "First name",
+    "lastName": "Last name",
+    "confirmPassword": "Confirm password",
+    "welcome": "Welcome",
+    "logOut": "Logged out",
+    "accountCreated": "Account created"
+  },
+  "login": {
+    "loginButton": "Login",
+    "facebookButton": "Login with facebook",
+    "newAccount": "Create an account"
+  },
+  "register": {
+    "passwordAlertTitle": "Password error",
+    "passwordMatch": "Password does not match",
+    "signUpButton": "Sign Up"
+  },
+  "navigation": {
+    "registerTitle": "Create an account"
+  }
+}
